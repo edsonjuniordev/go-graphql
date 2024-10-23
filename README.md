@@ -1,4 +1,4 @@
-# Full Cycle API
+# Full Cycle GraphQL
 
 Este projeto foi desenvolvido com base no módulo de GraphQL do curso/pós-graduação Go Expert Full Cycle.
 
